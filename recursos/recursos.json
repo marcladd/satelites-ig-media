@@ -1,0 +1,52 @@
+[
+  {
+    "slug": "puntajes-de-corte-2026",
+    "sitio": "puntajesdecorte.cl",
+    "project_id": "983d5081-5caa-4d20-ae5c-7310bf296368",
+    "titulo": "Puntajes de corte 2026: las carreras más buscadas, universidad por universidad",
+    "subtitulo": "Corte y vacantes de las 10 ofertas con puntaje más alto en 12 carreras top (Admisión 2026).",
+    "descripcion": "Una guía tipo tablero con los puntajes de corte reales del proceso de Admisión 2026 para las carreras más buscadas.\n\n**Qué incluye:**\n- Medicina, Química y Farmacia, Odontología, Psicología, Derecho, Ing. Comercial, Ing. Civil Industrial, Ing. Civil (Plan Común), Enfermería, Kinesiología, Arquitectura y Medicina Veterinaria\n- Las 10 universidades/sedes con el corte más alto de cada carrera, con sus vacantes\n- Ranking del corte más alto por carrera y cómo leer los datos (corte, vacantes, ponderaciones)\n- Checklist antes de postular y una ficha para armar tu lista de postulación",
+    "palabra_clave": "CORTES",
+    "fuentes": [
+      "DEMRE – resultados del proceso de Admisión 2026 (puntaje de corte y vacantes por oferta), procesados por puntajesdecorte.cl (tabla cutoff_scores, anio=2026)"
+    ],
+    "archivos": {
+      "pdf": "recurso.pdf",
+      "portada": "portada.png"
+    }
+  },
+  {
+    "slug": "empleabilidad-ingresos-carreras",
+    "sitio": "universidadeschile.cl",
+    "project_id": "8ac87eaa-2195-4716-8d6c-12ebc8c794f1",
+    "titulo": "¿Cuánto ganan y cuánto encuentran trabajo? Las carreras con mejor empleabilidad en Chile",
+    "subtitulo": "Empleabilidad al 1.er y 2.º año, ingreso promedio y duración real por carrera, con datos oficiales de mifuturo.cl.",
+    "descripcion": "Datos oficiales del SIES (Mineduc) para saber qué pasa después de titularte.\n\n**Qué incluye:**\n- Top 15 de carreras con mayor empleabilidad al 1.er año\n- Las 12 carreras con el rango de ingreso promedio más alto\n- 15 carreras clásicas comparadas lado a lado (empleabilidad 1.er y 2.º año, ingreso y duración real)\n- Las carreras que más mejoran al 2.º año y las de mayor duración real",
+    "palabra_clave": "SUELDOS",
+    "fuentes": [
+      "mifuturo.cl (SIES – Ministerio de Educación), Buscador de Empleabilidad e Ingresos; datos extraídos en julio 2026 por universidadeschile.cl (tabla mifuturo_empleabilidad, 1.130 programas, 100 carreras genéricas)"
+    ],
+    "archivos": {
+      "pdf": "recurso.pdf",
+      "portada": "portada.png"
+    }
+  },
+  {
+    "slug": "test-que-carrera-estudiar",
+    "sitio": "universidadeschile.cl",
+    "project_id": "8ac87eaa-2195-4716-8d6c-12ebc8c794f1",
+    "cuenta_ig": "@que.estudiar.chile",
+    "titulo": "¿Qué carrera estudiar? Guía de 5 pasos + ficha para comparar carreras",
+    "subtitulo": "Worksheet imprimible para conocerte, comparar carreras con datos y postular sin dudas.",
+    "descripcion": "Una guía práctica para decidir con método, no adivinando.\n\n**Qué incluye:**\n- Test de autoconocimiento: intereses, valores y ramos favoritos\n- Ficha para comparar 3 carreras (malla, duración real, empleabilidad, ingreso, arancel, corte)\n- 10 preguntas para hacerle a un profesional de la carrera\n- Checklist antes de postular (PAES, FUAS, ponderaciones, requisitos)",
+    "palabra_clave": "CARRERA",
+    "fuentes": [
+      "mifuturo.cl (SIES – Ministerio de Educación), Buscador de Empleabilidad e Ingresos; datos extraídos en julio 2026 (Psicología: empleabilidad 1.er/2.º año; Derecho: duración real)",
+      "demre.cl y acceso.mineduc.cl (referencias del proceso de admisión, sin cifras)"
+    ],
+    "archivos": {
+      "pdf": "recurso.pdf",
+      "portada": "portada.png"
+    }
+  }
+]
